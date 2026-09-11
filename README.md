@@ -1,0 +1,1 @@
+This dashboard has been taken offline (GitHub Pages disabled, git history reset). No dashboard content or credentials are stored in this repo.
